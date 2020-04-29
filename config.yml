@@ -8,7 +8,7 @@ description: Aprende a configurar, ejecutar e interpretar el algoritmo de busque
 
 template:
   name: GP-on-github
-  repo: GP-template
+  repo: lab-starter
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
